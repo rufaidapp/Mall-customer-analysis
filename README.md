@@ -5,7 +5,7 @@ It helps identify distinct customer segments and provides insights into spending
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Overview 
 
 The dashboard includes:
 - **Gender Distribution** (Pie Chart) — visualizes the ratio of male to female customers.  
